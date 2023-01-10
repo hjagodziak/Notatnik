@@ -1,0 +1,15 @@
+Zrobić notatnik
+
+1.Menu
+
+Plik   |Edycja |O programie
+Nowy   |Wytnij
+Otwórz |Kopiuj
+Zapisz	|Wklej
+Zamknij|*Cofnij
+(o programie - otwiera się w nowym oknie)
+(dodać skróty klawiszowe)
+2. Pasek narzędzi
+ikony:
+nowy otwórz zapisz | wytnij kopiuj wklej
+([ikona] [ikona] [ikona] | [ikona] [ikona] [ikona])
